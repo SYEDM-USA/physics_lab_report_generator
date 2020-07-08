@@ -6,7 +6,7 @@ Running this script before doing every lab should honestly save like 10-15 minut
 
 In summary, this script does all the work you cant automate in a lab. Automating doing the lab would be a waste of time since you typically change software every week or two.
 
-# More detailed description
+## More detailed description
 
 The file automatically makes: headers (Name,date,lab #, rough title (pdf name))
 
@@ -18,7 +18,7 @@ Lists the number of questions you need to solve (might be more than actually nee
 
 Lastly, it provides an outline for the conclusion
 
-# Why put this on github?
+## Why put this on github?
 
 I think it shows recruiters the amount of work I'll do to do as little work as possible (which is a good thing in CS in my opinion).
 
