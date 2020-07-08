@@ -10,7 +10,7 @@ In summary, this script does all the work you cant automate in a lab. Automating
 
 The file automatically makes: headers (Name,date,lab #, rough title (pdf name))
 
-Then it makes the introduction (just pastes the summary). You can use a paraphrase tool to restructure the intro
+Then it makes the introduction (just pastes the summary). You can use a paraphrase tool to restructure the intro. I have a functional, but kinda bad paraphrasing function built in.
 
 Creates a space for the Data and Analysis Section
 
